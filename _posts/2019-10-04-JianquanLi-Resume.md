@@ -1,18 +1,13 @@
 ---
 layout: post
-title: LaTex渲染的说明和测试
-date: 2019-07-24
-Author: 来自中世界
+title: Resume of Jianquan Li
+date: 2019-10-04
+Author: Jianquan Li
 tags: [sample, document]
 comments: true
 ---
-LaTeX渲染已经在全站头部文件引入，可以直接使用，公式块上下使用`$$`标明，内联公式则用`$`. 
 
-最好不要让公式出现在文章摘要里。
-
-Jekyll的默认文章摘要是第一段，但是我在使用中发现它选取摘要不是很稳定，因此加入了手动摘要分割线，默认为`<!-- more -->`，并且加入了首页摘要的字符数限制。
-
-因此有特殊符号、内容的文章，建议将这些内容折叠在摘要以下。例如本文
+Resume of Jianquan Li
 
 <!-- more -->
 
