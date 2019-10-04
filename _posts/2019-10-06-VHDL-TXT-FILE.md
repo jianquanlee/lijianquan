@@ -1,13 +1,13 @@
 ---
 layout: post
-title: VHDL TXT FILE READ
+title: VHDL¶ÁÐ´TXTÎÄ¼þ
 date: 2019-10-06
 Author: Jianquan Li
 tags: [FPGA]
 comments: true
 ---
 
-Resume of Jianquan Li
+VHDL TXT FILE READ
 
 <!-- more -->
 
