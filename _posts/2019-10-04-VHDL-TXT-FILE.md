@@ -7,7 +7,8 @@ tags: [VHDL, FPGA]
 comments: true
 ---
 
-<font face = "楷体" size = 4>　　在对<font face = "Times New Roman">VHDL</font>代码进行<font face = "Times New Roman">ModelSim</font>仿真的时候，如果测试一个比较简单的功能，比如简单地测试一个<font face = "Times New Roman">IPCore</font>，那么我们只需要</font>
+VHDL读写TXT文件
+<!-- <font face = "楷体" size = 4>　　在对<font face = "Times New Roman">VHDL</font>代码进行<font face = "Times New Roman">ModelSim</font>仿真的时候，如果测试一个比较简单的功能，比如简单地测试一个<font face = "Times New Roman">IPCore</font>，那么我们只需要</font>
 ```
 signalName <= x"01"; wait for cam_period*5; 
 signalName <= x"10"; wait for cam_period*5;
@@ -92,4 +93,4 @@ end process;
 <center>
 <font face="楷体" size = 5 color = "red">**如何你觉得这个文章对你有帮助，支持一下作者~**</font>
 <img src="http://img.blog.csdn.net/20171120085143421" width="30%" alt=""/>
-<center>
+<center> -->

@@ -3,7 +3,7 @@ layout: post
 title: Resume of Jianquan Li
 date: 2019-10-04
 Author: Jianquan Li
-tags: [sample, document]
+tags: [resume]
 comments: true
 ---
 
