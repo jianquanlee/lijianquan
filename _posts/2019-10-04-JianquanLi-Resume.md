@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¸öÈË¼ò½é
+title: ä¸ªäººç®€ä»‹
 date: 2019-10-04
 Author: Jianquan Li
 tags: [resume]
