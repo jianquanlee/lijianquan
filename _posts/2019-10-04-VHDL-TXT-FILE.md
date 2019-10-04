@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VHDL¶ÁÐ´TXTÎÄ¼þ
-date: 2019-10-04
+date: 2019-10-03
 Author: Jianquan Li
 tags: [VHDL, FPGA]
 comments: true
