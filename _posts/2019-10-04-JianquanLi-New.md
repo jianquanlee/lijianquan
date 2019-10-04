@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resume of Jianquan Li New
-date: 2019-10-05
+date: 2019-10-06
 Author: Jianquan Li
 tags: [resume]
 comments: true
