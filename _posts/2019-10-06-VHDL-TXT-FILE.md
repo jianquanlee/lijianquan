@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VHDL¶ÁÐ´TXTÎÄ¼þ
+title: VHDL Read Text File
 date: 2019-10-06
 Author: Jianquan Li
 tags: [FPGA]
