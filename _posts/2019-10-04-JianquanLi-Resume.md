@@ -4,7 +4,7 @@ title: 个人简介
 date: 2019-10-04
 Author: Jianquan Li
 tags: [resume]
-comments: true
+comments: false
 ---
 
 - 电子邮箱：lijianquan2015@ia.ac.cn

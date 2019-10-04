@@ -4,7 +4,7 @@ title: VHDL读写TXT文件
 date: 2019-10-04
 Author: Jianquan Li
 tags: [FPGA, VHDL]
-comments: true
+comments: false
 ---
 
 　　在对<font face = "Times New Roman">VHDL</font>代码进行<font face = "Times New Roman">ModelSim</font>仿真的时候，如果测试一个比较简单的功能，比如简单地测试一个<font face = "Times New Roman">IPCore</font>，那么我们只需要
