@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Resume of Jianquan Li New
+title: VHDL读写TXT文件
 date: 2019-10-06
 Author: Jianquan Li
-tags: [resume]
-comments: true
+tags: [FPGA]
+comments: false
 ---
 
-Resume of Jianquan Li
+VHDL读写TXT文件
 
 <!-- more -->
 
