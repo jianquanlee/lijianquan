@@ -11,7 +11,7 @@ Resume of Jianquan Li
 
 <!-- more -->
 
-Block math test
+<!-- Block math test
 
 ```
 $$
@@ -25,9 +25,9 @@ y = y(x,t) &= A e^{i\theta} \\
 \end{align*}
 $$
 
-```
+``` -->
 
-$$
+<!-- $$
 \begin{align*}
 y = y(x,t) &= A e^{i\theta} \\
 &= A (\cos \theta + i \sin \theta) \\
@@ -39,4 +39,4 @@ y = y(x,t) &= A e^{i\theta} \\
 $$
 
 Inline math test `$\lim_{x \to \infty} \exp(-x) = 0$`, $\lim_{x \to \infty} \exp(-x) = 0$
-
+ -->
