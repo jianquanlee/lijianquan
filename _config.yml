@@ -61,17 +61,17 @@ footer-text: Copyright (c) 2019
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+# disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+# gitalk:
+  # clientID: 
+  # clientSecret: 
+  # repo: 
+  # owner: 
 
 # 输入Google Analytics web tracking code
-google_analytics:
+# google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -119,4 +119,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
