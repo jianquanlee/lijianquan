@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resume of Jianquan Li
-date: 2019-10-04
+date: 2019-10-06
 Author: Jianquan Li
 tags: [FPGA]
 comments: true
